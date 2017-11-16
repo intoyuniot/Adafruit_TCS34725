@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_TCS34725",
+    "version": "1.0.0",
+    "keywords": "TCS34725",
+    "description": "TCS34725数字颜色传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_TCS34725.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

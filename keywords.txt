@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Adafruit_TCS34725   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+setIntegrationTime  KEYWORD2
+setGain  KEYWORD2
+getRawData  KEYWORD2
+calculateColorTemperature  KEYWORD2
+calculateLux  KEYWORD2
+write8  KEYWORD2
+read8  KEYWORD2
+read16  KEYWORD2
+setInterrupt  KEYWORD2
+clearInterrupt  KEYWORD2
+setIntLimits  KEYWORD2
+enable  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
